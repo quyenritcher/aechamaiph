@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://paileedahs.evokit.net/sitemap.xml
